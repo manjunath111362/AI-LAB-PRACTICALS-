@@ -1,0 +1,70 @@
+PS C:\Users\manju\Documents\Artificial Intelligence\practical-3> python code.py
+Enter the 8-puzzle values
+Use 0 for blank space
+Enter value: 1
+Enter value: 2
+Enter value: 3
+Enter value: 5
+Enter value: 0
+Enter value: 6
+Enter value: 4
+Enter value: 7
+Enter value: 8
+
+Initial Puzzle:
+(1, 2, 3)
+(5, 0, 6)
+(4, 7, 8)
+
+--- Misplaced Tiles Heuristic ---
+Number of moves: 4
+Nodes explored: 5
+
+Path:
+(1, 2, 3)
+(5, 0, 6)
+(4, 7, 8)
+
+(1, 2, 3)
+(0, 5, 6)
+(4, 7, 8)
+
+(1, 2, 3)
+(4, 5, 6)
+(0, 7, 8)
+
+(1, 2, 3)
+(4, 5, 6)
+(7, 0, 8)
+
+(1, 2, 3)
+(4, 5, 6)
+(7, 8, 0)
+
+
+--- Manhattan Distance Heuristic ---
+Number of moves: 4
+Nodes explored: 5
+
+Path:
+(1, 2, 3)
+(5, 0, 6)
+(4, 7, 8)
+
+(1, 2, 3)
+(0, 5, 6)
+(4, 7, 8)
+
+(1, 2, 3)
+(4, 5, 6)
+(0, 7, 8)
+
+(1, 2, 3)
+(4, 5, 6)
+(7, 0, 8)
+
+(1, 2, 3)
+(4, 5, 6)
+(7, 8, 0)
+
+PS C:\Users\manju\Documents\Artificial Intelligence\practical-3> 
