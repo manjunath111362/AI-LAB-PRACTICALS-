@@ -1,0 +1,90 @@
+PS C:\Users\manju\Documents\Artificial Intelligence\practical-4> python code.py
+TIC-TAC-TOE
+You are X
+Computer is O
+Positions:
+ 1 | 2 | 3
+---+---+---
+ 4 | 5 | 6
+---+---+---
+ 7 | 8 | 9
+
+   |   |  
+---+---+---
+   |   |  
+---+---+---
+   |   |  
+
+Enter position (1-9): 5
+
+   |   |  
+---+---+---
+   | X |  
+---+---+---
+   |   |  
+
+Computer is thinking...
+
+ O |   |  
+---+---+---
+   | X |  
+---+---+---
+   |   |  
+
+Enter position (1-9): 3
+
+ O |   | X
+---+---+---
+   | X |  
+---+---+---
+   |   |  
+
+Computer is thinking...
+
+ O |   | X
+---+---+---
+   | X |  
+---+---+---
+ O |   |  
+
+Enter position (1-9): 4
+
+ O |   | X
+---+---+---
+ X | X |  
+---+---+---
+ O |   |  
+
+Computer is thinking...
+
+ O |   | X
+---+---+---
+ X | X | O
+---+---+---
+ O |   |  
+
+Enter position (1-9): 8
+
+ O |   | X
+---+---+---
+ X | X | O
+---+---+---
+ O | X |  
+
+Computer is thinking...
+
+ O | O | X
+---+---+---
+ X | X | O
+---+---+---
+ O | X |  
+
+Enter position (1-9): 9
+
+ O | O | X
+---+---+---
+ X | X | O
+---+---+---
+ O | X | X
+
+Game Draw!
